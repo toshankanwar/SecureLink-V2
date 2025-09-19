@@ -1,0 +1,44 @@
+# Node/JS package files
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS, Windows, Linux OS junk
+.DS_Store
+Thumbs.db
+
+# Expo/react-native
+.expo/
+.expo-shared/
+*.expo
+
+# Android/iOS build (if native)
+android/
+ios/
+*.keystore
+
+# React Native specific
+coverage/
+build/
+dist/
+
+# Environment files
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.test
+
+# VSCode, JetBrains, etc.
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Misc
+*.log
+
+# Firebase admin key (if present)
+serviceAccount.json

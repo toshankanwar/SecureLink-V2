@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896317303681",
+    "project_id": "link-toshan-kanwar",
+    "storage_bucket": "link-toshan-kanwar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896317303681:android:51612b3b34f4805f969680",
+        "android_client_info": {
+          "package_name": "com.toshankanwar.securelink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896317303681-qjetqdl3kdq7661l0qrecquikqb6fkhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFTpDg88rOAqur4eQL0-50FwV4jncAEIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896317303681-k7bi9a9fjboujnh90qm330vvpvai56it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
